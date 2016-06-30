@@ -1,0 +1,27 @@
+
+beetle-shadow-pack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bug001
+  rotate: false
+  xy: 2, 2
+  size: 320, 300
+  orig: 320, 300
+  offset: 0, 0
+  index: -1
+bug002
+  rotate: false
+  xy: 324, 2
+  size: 320, 300
+  orig: 320, 300
+  offset: 0, 0
+  index: -1
+bug003
+  rotate: false
+  xy: 646, 2
+  size: 320, 300
+  orig: 320, 300
+  offset: 0, 0
+  index: -1

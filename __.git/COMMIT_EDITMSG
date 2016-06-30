@@ -1,0 +1,33 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes not staged for commit:
+#	deleted:    build.gradle
+#
+# Untracked files:
+#	../android-release.apk
+#	assets/textures/beetle-blue-pack.atlas
+#	assets/textures/beetle-blue-pack.png
+#	assets/textures/beetle-green-pack.atlas
+#	assets/textures/beetle-green-pack.png
+#	assets/textures/beetle-red-pack.atlas
+#	assets/textures/beetle-red-pack.png
+#	assets/textures/beetle-shadow-pack.atlas
+#	assets/textures/beetle-shadow-pack.png
+#	res/values-v21/
+#	../pack/Amazon/screen4.jpg
+#	../pack/beetle_blue/
+#	../pack/beetle_green/
+#	../pack/beetle_shadow/
+#	../pack/bug-shadow.png
+#	../pack/playstore/screen3.jpg
+#	../pack/playstore/screen4.jpg
+#	../pack/playstore/tablet_screen1.jpg
+#	../pack/playstore/tablet_screen2.jpg
+#	../pack/playstore/tablet_screen3.jpg
+#	../pack/playstore/tablet_screen4.jpg
+#	../pack/ui/menu_button_checked.9.png
+#

@@ -1,0 +1,27 @@
+
+beetle-green-pack.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bug001
+  rotate: false
+  xy: 2, 2
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1
+bug002
+  rotate: false
+  xy: 288, 2
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1
+bug003
+  rotate: false
+  xy: 574, 2
+  size: 284, 256
+  orig: 284, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 bd18af0bf77802d7b8c27f74edbd1e8833a20a50 slaviksoft <svt256@gmail.com> 1443098168 +0300	commit (initial): Initial commit
+bd18af0bf77802d7b8c27f74edbd1e8833a20a50 eeb68585bcd67832412a8aa6a225de840e4dc1dc slaviksoft <svt256@gmail.com> 1443098372 +0300	commit: new release 1.1
+eeb68585bcd67832412a8aa6a225de840e4dc1dc 61baf818daa8df36e94fd9965db790e7b28ee92e slaviksoft <svt256@gmail.com> 1443099019 +0300	commit: changer version code
+61baf818daa8df36e94fd9965db790e7b28ee92e 95e3cef9b040c0179eaf9c2b28ea003779a0400b slaviksoft <svt256@gmail.com> 1443633632 +0300	commit: + splash
+95e3cef9b040c0179eaf9c2b28ea003779a0400b a4f83ba8b1972cf3fea8fdf79e832e773d5fafd3 slaviksoft <svt256@gmail.com> 1443718164 +0300	commit: + splash
+a4f83ba8b1972cf3fea8fdf79e832e773d5fafd3 64a6c9a479c7106061f41ab8bb58913e7ec81963 slaviksoft <svt256@gmail.com> 1443958608 +0300	commit: options
+64a6c9a479c7106061f41ab8bb58913e7ec81963 b8784bf00534ac93530261ce3703c72656ccf5f6 slaviksoft <svt256@gmail.com> 1444030869 +0300	commit: release 1.3
+b8784bf00534ac93530261ce3703c72656ccf5f6 ea7397688c91c6a487d8ff0237a7de063325dd4f slaviksoft <svt256@gmail.com> 1467127089 +0300	commit: release 1.4
+ea7397688c91c6a487d8ff0237a7de063325dd4f 46b5daa7723eb557d0b4fc31d2a90b24a2f8a771 slaviksoft <svt256@gmail.com> 1467130870 +0300	commit: release 1.4
+46b5daa7723eb557d0b4fc31d2a90b24a2f8a771 6a701dae151182d9f78a70a531a08f5b7019c247 slaviksoft <svt256@gmail.com> 1467130888 +0300	merge origin/master: Merge made by the 'recursive' strategy.
+6a701dae151182d9f78a70a531a08f5b7019c247 d9635474e8a5c733b617a262c44069427a6d4254 slaviksoft <svt256@gmail.com> 1467131090 +0300	commit: release 1.4

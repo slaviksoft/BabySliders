@@ -1,0 +1,65 @@
+
+buttons-pack.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+menu_button_checked
+  rotate: false
+  xy: 2, 2
+  size: 120, 60
+  split: 19, 20, 17, 18
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+menu_button_down
+  rotate: false
+  xy: 714, 190
+  size: 120, 60
+  split: 19, 20, 16, 16
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+menu_button_up
+  rotate: false
+  xy: 124, 2
+  size: 120, 60
+  split: 19, 20, 17, 18
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 2, 64
+  size: 176, 186
+  orig: 176, 186
+  offset: 0, 0
+  index: -1
+options_back
+  rotate: false
+  xy: 180, 64
+  size: 176, 186
+  orig: 176, 186
+  offset: 0, 0
+  index: -1
+options_back_down
+  rotate: false
+  xy: 358, 64
+  size: 176, 186
+  orig: 176, 186
+  offset: 0, 0
+  index: -1
+options_down
+  rotate: false
+  xy: 536, 64
+  size: 176, 186
+  orig: 176, 186
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 714, 182
+  size: 1, 6
+  orig: 1, 6
+  offset: 0, 0
+  index: -1

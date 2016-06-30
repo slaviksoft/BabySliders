@@ -1,0 +1,27 @@
+
+img-pack.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+circle_green
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+circle_yellow
+  rotate: false
+  xy: 68, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 2, 68
+  size: 229, 175
+  orig: 229, 175
+  offset: 0, 0
+  index: -1
